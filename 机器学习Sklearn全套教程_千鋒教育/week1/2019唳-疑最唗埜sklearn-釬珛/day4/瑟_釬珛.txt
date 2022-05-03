@@ -1,0 +1,4 @@
+概念：
+	梯度提升、梯度下降
+	梯度消失、梯度爆炸
+	梯度提升树GradientBoostingClassifier

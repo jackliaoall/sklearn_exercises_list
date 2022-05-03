@@ -1,0 +1,4 @@
+天池大赛：https://tianchi.aliyun.com/competition/entrance/231693/information
+
+录制10分钟视频，讲一讲线性回归
+

@@ -1,0 +1,8 @@
+决策树原理转化成自己的语言表述出来
+
+随机森林原理变成自己的语言说出来
+
+
+大作业：https://github.com/yanshengli/tianchi_bigdata
+
+

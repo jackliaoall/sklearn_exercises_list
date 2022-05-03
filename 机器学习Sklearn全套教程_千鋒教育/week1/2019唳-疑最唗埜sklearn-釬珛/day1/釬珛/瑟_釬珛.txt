@@ -1,0 +1,5 @@
+鸢尾花：KNN分类，可视化（https://scikit-learn.org/stable/auto_examples/neighbors/plot_classification.html#sphx-glr-auto-examples-neighbors-plot-classification-py）
+
+KNN算法的优缺点总结（周三提问）
+
+KNN github 练习：https://github.com/AIDeveloperCommunity/Lets-Play-With-KNNs
